@@ -1,32 +1,40 @@
 [{
         "id": "0",
-        "title": "水星记",
-        "author": "郭顶",
-        "albumn": "飞行器的执行周期",
+        "title": "以父之名",
+        "author": "周杰伦",
+        "albumn": "叶惠美",
         "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_水星记.json",
         "url": "https://jirengu.github.io/data-mock/huawei-music/水星记.mp3"
     },
     {
         "id": "1",
-        "title": "后来的我们",
-        "author": "五月天",
-        "albumn": "后来的我们",
+        "title": "半兽人",
+        "author": "周杰伦",
+        "albumn": "八度空间",
         "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_后来的我们.json",
         "url": "https://jirengu.github.io/data-mock/huawei-music/后来的我们.mp3"
     },
     {
         "id": "2",
-        "title": "假装",
-        "author": "陈雪凝",
-        "albumn": "拾陆",
+        "title": "外婆",
+        "author": "周杰伦",
+        "albumn": "七里香",
         "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_假装.json",
         "url": "https://jirengu.github.io/data-mock/huawei-music/假装.mp3"
     },
     {
         "id": "3",
-        "title": "烦恼歌",
-        "author": "张学友",
-        "albumn": "在你身边",
+        "title": "夜曲",
+        "author": "周杰伦",
+        "albumn": "十一月的肖邦",
+        "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_烦恼歌.json",
+        "url": "https://jirengu.github.io/data-mock/huawei-music/烦恼歌.mp3"
+    },
+    {
+        "id": "4",
+        "title": "止战之殇",
+        "author": "周杰伦",
+        "albumn": "七里香",
         "lyric": "https://jirengu.github.io/data-mock/huawei-music/lyric_烦恼歌.json",
         "url": "https://jirengu.github.io/data-mock/huawei-music/烦恼歌.mp3"
     }
