@@ -1,42 +1,42 @@
 [
-    {
-        "id": "0",
-        "title": "以父之名",
-        "author": "周杰伦",
-        "albumn": "叶惠美",
-        "lyric": "https://yyyh.info/huawei-music-list/lyric_以父之名.json",
-        "url": "https://yyyh.info/huawei-music-list/周杰伦-以父之名.mp3"
-    },
-    {
-        "id": "1",
-        "title": "半兽人",
-        "author": "周杰伦",
-        "albumn": "八度空间",
-        "lyric": "https://yyyh.info/huawei-music-list/lyric_半兽人.json",
-        "url": "https://yyyh.info/huawei-music-list/周杰伦-半兽人.mp3"
-    },
-    {
-        "id": "2",
-        "title": "外婆",
-        "author": "周杰伦",
-        "albumn": "七里香",
-        "lyric": "https://yyyh.info/huawei-music-list/lyric_外婆.json",
-        "url": "https://yyyh.info/huawei-music-list/周杰伦-外婆.mp3"
-    },
-    {
-        "id": "3",
-        "title": "夜曲",
-        "author": "周杰伦",
-        "albumn": "十一月的肖邦",
-        "lyric": "https://yyyh.info/huawei-music-list/lyric_夜曲.json",
-        "url": "https://yyyh.info/huawei-music-list/周杰伦-夜曲.mp3"
-    },
-    {
-        "id": "4",
-        "title": "止战之殇",
-        "author": "周杰伦",
-        "albumn": "七里香",
-        "lyric": "https://yyyh.info/huawei-music-list/lyric_止战之殇.json",
-        "url": "https://yyyh.info/huawei-music-list/周杰伦-止战之殇.mp3"
-    }
+{
+    "id": "0",
+    "title": "以父之名",
+    "author": "周杰伦",
+    "albumn": "叶惠美",
+    "lyric": "https://yyyh.info/huawei-music-list/lyric_以父之名.json",
+    "url": "https://yyyh.info/huawei-music-list/周杰伦-以父之名.mp3"
+},
+{
+    "id": "1",
+    "title": "半兽人",
+    "author": "周杰伦",
+    "albumn": "八度空间",
+    "lyric": "https://yyyh.info/huawei-music-list/lyric_半兽人.json",
+    "url": "https://yyyh.info/huawei-music-list/周杰伦-半兽人.mp3"
+},
+{
+    "id": "2",
+    "title": "外婆",
+    "author": "周杰伦",
+    "albumn": "七里香",
+    "lyric": "https://yyyh.info/huawei-music-list/lyric_外婆.json",
+    "url": "https://yyyh.info/huawei-music-list/周杰伦-外婆.mp3"
+},
+{
+    "id": "3",
+    "title": "夜曲",
+    "author": "周杰伦",
+    "albumn": "十一月的肖邦",
+    "lyric": "https://yyyh.info/huawei-music-list/lyric_夜曲.json",
+    "url": "https://yyyh.info/huawei-music-list/周杰伦-夜曲.mp3"
+},
+{
+    "id": "4",
+    "title": "止战之殇",
+    "author": "周杰伦",
+    "albumn": "七里香",
+    "lyric": "https://yyyh.info/huawei-music-list/lyric_止战之殇.json",
+    "url": "https://yyyh.info/huawei-music-list/周杰伦-止战之殇.mp3"
+}
 ]
